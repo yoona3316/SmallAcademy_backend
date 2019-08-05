@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-rest-auth
+django-cors-headers
+drf-nested-serializer
+coverage
+django-cleanup
