@@ -170,3 +170,5 @@ EMAIL_HOST_USER = f'{id}@gmail.com'
 EMAIL_HOST_PASSWORD = f'{password}'
 SERVER_EMAIL = f'{id}@gmail.com'
 DEFAULT_FROM_MAIL = f'{id}'
+
+REST_USE_JWT = True
