@@ -284,7 +284,6 @@ fabric.properties
 pyvenv.cfg
 pip-selfcheck.json
 
-.idea
-../.idea/
-../.idea/*
+.idea/
+
 # End of https://www.gitignore.io/api/python,django,pycharm,virtualenv
